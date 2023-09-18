@@ -16,7 +16,7 @@ align-items: center;
 .hex-colors h1{
     font-size: 16px;
     text-transform: uppercase;
-    animation: changecolor 5s infinite alternate;
+    animation: colorchange 5s infinite alternate;
 }
 
 .hex-colors h2{
@@ -28,5 +28,20 @@ align-items: center;
 @keyframes colorchange{
     0%{
         color:indigo;
+    }
+    20%{
+        color:rgb(44, 10, 169);
+    }
+    40%{
+        color:rgb(9, 162, 176);
+    }
+    60%{
+        color:rgb(17, 158, 97);
+    }
+    80%{
+        color:rgb(194, 209, 27);
+    }
+    100%{
+        color:rgb(208, 93, 21);
     }
 }
