@@ -5,3 +5,12 @@
     align-items: center;
     height: 100vh;
 }
+
+.h1{
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.h2{
+    font-size: medium;
+}
