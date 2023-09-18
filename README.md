@@ -1,4 +1,5 @@
 # funWithJs
+Preparing lessons for front-end development for Isabella's school
 Lesson 1:
 Changing background colors with a button
 ### Steps
