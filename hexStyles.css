@@ -45,3 +45,11 @@ align-items: center;
         color:rgb(208, 93, 21);
     }
 }
+@media(max-width:480px){
+    .hex-colors h1{
+        font-size: 10px;   
+    }
+    .hex-colors h2{
+        font-size: 8px;   
+    }
+}
